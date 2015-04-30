@@ -1,0 +1,13 @@
+package com.kmjrj.staff_core;
+
+import org.junit.Before;
+
+
+public class TestMybatis {
+	
+	@Before
+	public void before()
+	{
+		
+	}
+}

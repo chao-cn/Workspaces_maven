@@ -248,3 +248,9 @@ org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2015-04-30 14:59:49.067
 !MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-04-30 16:36:54.422
+!MESSAGE Could not determine source level, using default 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-04-30 16:36:54.423
+!MESSAGE Could not determine target level, using default 

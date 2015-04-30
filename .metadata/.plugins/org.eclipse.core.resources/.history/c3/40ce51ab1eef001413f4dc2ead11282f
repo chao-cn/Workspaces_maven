@@ -1,0 +1,11 @@
+package com.kmjrj.staff_core;
+import org.junit.Before;
+import org.junit.runner.RunWith;
+import org.springframework.test.context.ContextConfiguration;
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+@RunWith(SpringJUnit4ClassRunner.class)
+//@ContextConfiguration(locations = {"classpath:spring.xml","classpath:spring-mybatis.xml"})
+public class TestMybatis {
+	
+}
